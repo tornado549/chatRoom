@@ -10,7 +10,7 @@
         <mt-button type="primary" @click="register" class='login-button'>注册</mt-button>
         <br/>
         <router-link to='/Login'>
-          <span class='Register'>去登录</span>
+          <span class='Register'>登录</span>
         </router-link>
       </div>
     </div>
